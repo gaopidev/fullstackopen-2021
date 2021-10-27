@@ -1,0 +1,46 @@
+body {
+  width: 60vw;
+  margin: 2em auto;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h2 {
+  letter-spacing: 0.5px;
+}
+#btn-group {
+  width: 50vw;
+  margin: 1em auto;
+  text-align: center;
+}
+button {
+  margin: auto 1em;
+  font-size: 1.1em;
+  padding: 0.5em 0.7em;
+  border: none;
+  color: whitesmoke;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button#good {
+  background-color: #26c281;
+}
+button#neutral {
+  background-color: #9aacc2;
+}
+button#bad {
+  background-color: #f62459;
+}
+button:hover {
+  color: white;
+}
+p#error {
+  color: #e87e04;
+}
+tr {
+  height: 2em;
+}
+td:first-child {
+  padding-right: 1.3em;
+  font-weight: bold;
+}
