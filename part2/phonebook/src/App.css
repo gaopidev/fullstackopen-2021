@@ -1,0 +1,13 @@
+#notification {
+   padding: 0.7em;
+   border-radius: 5px;
+   margin: 0.5em auto;
+}
+.success {
+   background-color: #456e58;
+   color: #eeeeee;
+}
+.failed {
+   background-color: #e08283;
+   color: #eeeeee;
+}

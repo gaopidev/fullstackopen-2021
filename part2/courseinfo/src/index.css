@@ -1,0 +1,17 @@
+body {
+  width: 80vw;
+  margin: 3em auto;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+p.part {
+  font-size: 1.3em;
+  letter-spacing: 0.5px;
+  margin-left: 2em;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

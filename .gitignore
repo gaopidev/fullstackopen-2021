@@ -2,3 +2,5 @@
 *.md
 *manifest.json
 *robots.txt
+*.env
+*db.json

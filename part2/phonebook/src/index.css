@@ -1,0 +1,38 @@
+body {
+   width: 80vw;
+   margin: 3em auto;
+   font-family: sans-serif;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+div.formGroup {
+   margin-bottom: 1em;
+}
+label {
+   font-size: 1.1em;
+   letter-spacing: 0.5px;
+}
+input {
+   font-size: 1.1em;
+}
+button {
+   font-size: 1em;
+   padding: 0.5em 0.7em;
+   border: none;
+   color: whitesmoke;
+   border-radius: 5px;
+   cursor: pointer;
+}
+button.primary {
+   background-color: #67809f;
+}
+button.danger {
+   padding: 0.2em 0.4em;
+   margin-left: 1em;
+   background-color: #ac2c2c;
+}
+p {
+   margin-left: 1em;
+   letter-spacing: 0.5px;
+   font-size: 1.1em;
+}
