@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/persons/61a2393759ef4a1a12748adf HTTP/1.1
+content-type: application/json
+
+{
+   "name": "Memo Plasticos",
+   "number": "987-123-4567"
+}
