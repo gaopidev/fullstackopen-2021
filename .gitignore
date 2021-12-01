@@ -1,6 +1,6 @@
 *node_modules/
 *.md
-*manifest.json
-*robots.txt
-*.env
-*db.json
+manifest.json
+robots.txt
+.env
+*db/
